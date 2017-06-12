@@ -2,6 +2,8 @@
 
 A blazing fast [lolcat](https://github.com/busyloop/lolcat) replacement.
 
+[![demo](https://asciinema.org/a/4bfe41lnu96yx1rvgxrop6g5v.png)](https://asciinema.org/a/4bfe41lnu96yx1rvgxrop6g5v?autoplay=1)
+
 ## Building
 
 Building requires a functioning [go installation](https://golang.org/doc/install#install).
