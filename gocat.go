@@ -216,11 +216,11 @@ var helpText = []string{
 "  -a, --animate            animate the output\n",
 "  -d, --duration=<d>       animation duration (default: 12)\n",
 "  -f, --force              force color output\n",
-"  -F, --freq=<f>           ranbow frequency (default: 2)\n",
+"  -F, --freq=<f>           rainbow frequency (default: 2)\n",
 "  -i, --invert             invert the output\n",
 "  -n, --number             number all output lines\n",
 "  -O, --offset=<o>         vertical offset (default: 2)\n",
-"  -S, --seed=<s>           RNG seed, 0 means random (default: 2)\n",
+"  -S, --seed=<s>           RNG seed, 0 means random (default: 0)\n",
 "  -s, --speed=<s>          animation speed (default: 20)\n",
 "  -h, --help               display this help text\n",
 "      --version            display version information\n"}
